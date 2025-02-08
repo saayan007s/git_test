@@ -1,3 +1,5 @@
 Hello World,
 
 I am going to be the best web developer ever!
+
+Let's see if I can make commit messages in vim!
